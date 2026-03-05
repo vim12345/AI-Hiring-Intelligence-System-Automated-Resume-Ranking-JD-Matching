@@ -6,6 +6,10 @@ This platform automatically ranks candidate resumes against a Job Description (J
 
 ---
 
+## Live Demo
+
+https://ai-hiring-intelligence-system-automated-resume-ranking-jd-matc.streamlit.app/
+
 ## 🔍 Overview
 
 Traditional resume screening relies on keyword filtering.  
